@@ -1,8 +1,7 @@
 # Today-s-Story
 하루를 간편하게 기록하기 위해 만든 어플리케이션입니다.<br>
 날씨, 내용, 이미지를 첨부해 상세히 기록할 수 있습니다.
-
-2023-11-22 ~ 2023-12-20               
+              
 <img src = https://github.com/seolaox/TodaysStory/blob/main/story%20of%20today%20main%20screen.png> </img>
 
 ## 버전기록
